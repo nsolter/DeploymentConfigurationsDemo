@@ -1,1 +1,1 @@
-Barebones project to demonstrate Xcode Deployment Configurations for iOS. See <TBD> for details on configuring your own project to build for different target environments, with per-environment settings.
+Barebones project to demonstrate Xcode Deployment Configurations for iOS. See [Xcode Deployment Configurations for iOS](https://medium.com/@nsolter/xcode-deployment-configurations-for-ios-1e8d5dd4025b#.d06qg2zhm) for details on configuring your own project to build for different target environments, with per-environment settings.
